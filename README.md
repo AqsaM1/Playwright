@@ -2,7 +2,6 @@
 
 This repository is a test automation framework using [Playwright](https://playwright.dev/), supporting end-to-end and API testing across Chromium, Firefox, and WebKit.
 
----
 
 ## 📦 Step-by-Step Setup & Usage
 
@@ -10,7 +9,6 @@ This repository is a test automation framework using [Playwright](https://playwr
 
 Download from: https://nodejs.org/
 
----
 
 ### 2️⃣ Initialize the Project
 
